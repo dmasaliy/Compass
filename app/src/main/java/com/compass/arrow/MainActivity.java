@@ -1,4 +1,4 @@
-package com.example.compass;
+package com.compass.arrow;
 
 import androidx.appcompat.app.AppCompatActivity;
 
